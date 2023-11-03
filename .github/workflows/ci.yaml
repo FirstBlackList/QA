@@ -18,6 +18,8 @@ jobs:
           architecture: x64
       - uses: Xotabu4/selenoid-github-action@v2
       # start test
+      - name: Change wrapper permissions
+        run: chmod +x ./gradlew
       - run: ./gradlew clean test -Dselenide.remote=http://localhost:4444/wd/hub
 
       # download history tests
