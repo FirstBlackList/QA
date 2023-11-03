@@ -9,12 +9,13 @@ jobs:
     # what что делаем
     steps:
       # download repo выкачиваем репозиторий
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       # configuration настраиваем Java
       - uses: actions/setup-java@v3
         with:
-          distribution: 'zulu'
           java-version: '11'
+          distribution: 'temurin'
+          architecture: x64
       - uses: Xotabu4/selenoid-github-action@v2
       # start test
       - run: ./gradlew clean test -Dselenide.remote=http://localhost:4444/wd/hub
@@ -28,7 +29,7 @@ jobs:
           path: gh-pages
 
       # generation allure
-      - uses: simple-elf/allure-report-action@main
+      - uses: simple-elf/allure-report-action@master
         if: always()
         with:
           gh_pages: gh-pages
