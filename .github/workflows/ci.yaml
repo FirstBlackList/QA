@@ -4,15 +4,42 @@ on: [push]
 
 jobs:
   test:
-    # start
+    # start где запуск
     runs-on: ubuntu-latest
-    # what
+    # what что делаем
     steps:
-      # download repo
+      # download repo выкачиваем репозиторий
       - uses: actions/checkout@v3
-      # configuration
+      # configuration настраиваем Java
       - uses: actions/setup-java@v3
         with:
           distribution: 'zulu'
           java-version: '11'
-      - run: ./gradlew clean test
+      - uses: Xotabu4/selenoid-github-action@v2
+      # start test
+      - run: ./gradlew clean test -Dselenide.remote=http://localhost:4444/wd/hub
+
+      # download history tests
+      - uses: actions/checkout@v2
+        if: always()
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      # generation allure
+      - uses: simple-elf/allure-report-action@master
+        if: always()
+        with:
+          gh_pages: gh-pages
+          allure_results: build/allure-results
+          allure_report: allure-report
+          allure_history: allure-history
+
+      # публикация отчёта
+      - uses: peaceiris/actions-gh-pages@v2
+        if: always()
+        env:
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: allure-history
