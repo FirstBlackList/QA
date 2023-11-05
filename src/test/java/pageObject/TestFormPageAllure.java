@@ -23,7 +23,7 @@ public class TestFormPageAllure extends TestBase {
     @Link(value = "QA", url = "https://demoqa.com")
     @DisplayName("Заполнение формы регистрации")
     void testForm() {
-        SelenideLogger.addListener("allure", new AllureSelenide());
+        //SelenideLogger.addListener("allure", new AllureSelenide());
 
 
         String firstName = RandomData.randomFirstName();
