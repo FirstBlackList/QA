@@ -1,40 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pageObject.TestFormPage" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-11-05T07:35:43" hostname="LENOVO" time="86.207">
+<testsuite name="jenkins.NegativeTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-11-05T07:52:21" hostname="LENOVO" time="0.468">
   <properties/>
-  <testcase name="testForm()" classname="pageObject.TestFormPage" time="86.207">
-    <failure message="org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 28.552&#10;  (Session info: chrome=118.0.5993.120)&#10;Build info: version: '4.13.0', revision: 'ba948ece5b*'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [f407e7fcb56850ed01588dc2f219a828, get {url=https://demoqa.com/automation-practice-form}]&#10;selenide.url: https://demoqa.com/automation-practice-form&#10;Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 118.0.5993.120, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52630}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52630/devtoo..., se:cdpVersion: 118.0.5993.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;selenide.baseUrl: https://demoqa.com&#10;Session ID: f407e7fcb56850ed01588dc2f219a828" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 28.552
-  (Session info: chrome=118.0.5993.120)
-Build info: version: '4.13.0', revision: 'ba948ece5b*'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [f407e7fcb56850ed01588dc2f219a828, get {url=https://demoqa.com/automation-practice-form}]
-selenide.url: https://demoqa.com/automation-practice-form
-Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 118.0.5993.120, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52630}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52630/devtoo..., se:cdpVersion: 118.0.5993.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-selenide.baseUrl: https://demoqa.com
-Session ID: f407e7fcb56850ed01588dc2f219a828
-	at java.base@11.0.17/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base@11.0.17/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at java.base@11.0.17/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base@11.0.17/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-	at app//org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at app//org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at app//org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-	at app//org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
-	at app//org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
-	at app//org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
-	at app//org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
-	at app//org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
-	at app//org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:1092)
-	at app//com.codeborne.selenide.drivercommands.Navigator.lambda$navigateTo$0(Navigator.java:74)
-	at app//com.codeborne.selenide.logevents.SelenideLogger.lambda$run$0(SelenideLogger.java:105)
-	at app//com.codeborne.selenide.logevents.SelenideLogger.wrap(SelenideLogger.java:133)
-	at app//com.codeborne.selenide.logevents.SelenideLogger.run(SelenideLogger.java:104)
-	at app//com.codeborne.selenide.drivercommands.Navigator.navigateTo(Navigator.java:69)
-	at app//com.codeborne.selenide.drivercommands.Navigator.open(Navigator.java:32)
-	at app//com.codeborne.selenide.SelenideDriver.open(SelenideDriver.java:102)
-	at app//com.codeborne.selenide.Selenide.open(Selenide.java:53)
-	at app//pageObject.page.RegistrationPage.openPage(RegistrationPage.java:28)
-	at app//pageObject.TestFormPage.testForm(TestFormPage.java:20)
+  <testcase name="test1()" classname="jenkins.NegativeTest" time="0.468">
+    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;true&gt; but was: &lt;false&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;true&gt; but was: &lt;false&gt;
+	at app//org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at app//org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:40)
+	at app//org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:35)
+	at app//org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:179)
+	at app//jenkins.NegativeTest.test1(NegativeTest.java:13)
 	at java.base@11.0.17/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base@11.0.17/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base@11.0.17/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -127,7 +100,5 @@ Session ID: f407e7fcb56850ed01588dc2f219a828
 </failure>
   </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[нояб. 05, 2023 11:36:38 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 118, so returning the closest version found: 117
-]]></system-err>
+  <system-err><![CDATA[]]></system-err>
 </testsuite>
