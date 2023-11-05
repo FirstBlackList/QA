@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 05 17:14:33 GMT 2023","Sun Nov 05 17:14:33 GMT 2023","2","","jenkins.PositiveTest","","jenkins.PositiveTest","test1","test1()",""
+"broken","Sun Nov 05 17:14:33 GMT 2023","Sun Nov 05 17:14:36 GMT 2023","3055","","pageObject.TestFormPage","","pageObject.TestFormPage","testForm","Заполнение формы регистрации",""
+"broken","Sun Nov 05 17:14:36 GMT 2023","Sun Nov 05 17:15:07 GMT 2023","30578","","pageObject.TestFormPageWithDriver","","pageObject.TestFormPageWithDriver","testFormDriver","testFormDriver()",""
+"failed","Sun Nov 05 17:14:33 GMT 2023","Sun Nov 05 17:14:33 GMT 2023","42","","jenkins.NegativeTest","","jenkins.NegativeTest","test1","test1()",""
+"skipped","Sun Nov 05 17:14:33 GMT 2023","Sun Nov 05 17:14:33 GMT 2023","0","","jenkins.SkippedTest","","jenkins.SkippedTest","test1","test1()",""
+"failed","Sun Nov 05 17:15:07 GMT 2023","Sun Nov 05 17:15:14 GMT 2023","7537","","testFormQa.testFormDr","","testFormQa.testFormDr","testForm3Faker","testForm3Faker()",""
