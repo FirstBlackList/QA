@@ -17,6 +17,7 @@ public class TestBaseExtended {
     static void setUp() {
         //Configuration.pageLoadTimeout = 70000;
         //Configuration.baseUrl = "https://demoqa.com";
+
         Configuration.baseUrl = "https://demoqa.com";
         Configuration.browser = "chrome";
         Configuration.browserVersion = "100.0";

@@ -24,7 +24,7 @@ public class TestFormPageWithDriver extends TestBaseExtended {
     @Severity(SeverityLevel.BLOCKER)
     @Link(value = "QA", url = "https://demoqa.com/automation-practice-form")
     @DisplayName("Заполнение формы регистрации")*/
-    void testForm() {
+    void testFormDriver() {
 
         String firstName = RandomData.randomFirstName();
         String lastName = RandomData.randomLastName();

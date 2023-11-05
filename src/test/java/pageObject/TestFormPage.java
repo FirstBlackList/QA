@@ -9,7 +9,7 @@ import testFormQa.random.RandomData;
 
 import static io.qameta.allure.Allure.step;
 
-public class TestFormPage extends TestBase {
+public class TestFormPage /*extends TestBase*/ {
 
     @Test
     @Feature("Форма регистрации")

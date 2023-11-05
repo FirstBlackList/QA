@@ -26,6 +26,7 @@ public class RegistrationPage {
     private final SelenideElement citySubmit = $("#city");
     public RegistrationPage openPage() {
         open("/automation-practice-form");
+        executeJavaScript("$('#fixedban').remove()");
         executeJavaScript("$('footer').remove()");
         return this;
     }
