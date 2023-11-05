@@ -16,7 +16,7 @@ public class TestFormPage extends TestBase {
     @Story("Заполнение формы")
     @Owner("Sergey")
     @Severity(SeverityLevel.BLOCKER)
-    @Link(value = "QA", url = "https://demoqa.com")
+    @Link(value = "QA", url = "https://demoqa.com/automation-practice-form")
     @DisplayName("Заполнение формы регистрации")
     void testForm() {
 
