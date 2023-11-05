@@ -54,3 +54,9 @@ test {
     useJUnitPlatform()
     systemProperties(System.getProperties())
 }
+
+task simple_test(type: Test) { //create @Tag "simple" -> folder /jenkins
+    useJUnitPlatform{
+        includeTags("simple")
+    }
+}
