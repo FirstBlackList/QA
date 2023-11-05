@@ -4,6 +4,7 @@ import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.*;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import pageObject.base.TestBase;
 import pageObject.page.RegistrationPage;
@@ -14,6 +15,7 @@ import static io.qameta.allure.Allure.step;
 public class TestFormPageAllure extends TestBase {
 
     @Test
+    @Tag("less")
     @Feature("Форма регистрации")
     @Story("Заполнение формы")
     @Owner("Sergey")

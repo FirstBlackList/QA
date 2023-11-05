@@ -60,3 +60,9 @@ task simple_test(type: Test) { //create @Tag "simple" -> folder /jenkins
         includeTags("simple")
     }
 }
+
+task less_test(type: Test) { //create @Tag "simple" -> folder /jenkins
+    useJUnitPlatform{
+        includeTags("less")
+    }
+}
