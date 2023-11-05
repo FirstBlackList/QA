@@ -1,0 +1,39 @@
+package pageObject.base;
+
+import com.codeborne.selenide.Configuration;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+import java.util.Map;
+
+import static com.codeborne.selenide.Selenide.open;
+
+public class TestBaseExtended {
+
+    @BeforeAll
+    static void setUp() {
+        //Configuration.pageLoadTimeout = 70000;
+        //Configuration.baseUrl = "https://demoqa.com";
+        Configuration.baseUrl = "https://demoqa.com";
+        Configuration.browser = "chrome";
+        Configuration.browserVersion = "100.0";
+
+        //Configuration.pageLoadStrategy = "eager";
+        //Configuration.holdBrowserOpen = true;
+        Configuration.browserSize = "1920x1080";
+
+        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
+
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        //capabilities.setCapability("browserName", "chrome");
+        //capabilities.setCapability("browserVersion", "100.0");
+        capabilities.setCapability("selenoid:options", Map.<String, Object>of(
+                "enableVNC", true,
+                "enableVideo", false
+        ));
+
+        Configuration.browserCapabilities = capabilities;
+    }
+
+}

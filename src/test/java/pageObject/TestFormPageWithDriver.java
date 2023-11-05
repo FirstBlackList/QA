@@ -2,20 +2,23 @@ package pageObject;
 
 import io.qameta.allure.*;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import pageObject.base.TestBase;
+import pageObject.base.TestBaseExtended;
 import pageObject.page.RegistrationPage;
 import testFormQa.random.RandomData;
 
-public class TestFormPageWithDriver extends TestBase {
+public class TestFormPageWithDriver extends TestBaseExtended {
 
     @Test
-    @Feature("Форма регистрации")
+    @Tag("remote")
+    /*@Feature("Форма регистрации")
     @Story("Заполнение формы")
     @Owner("Sergey")
     @Severity(SeverityLevel.BLOCKER)
     @Link(value = "QA", url = "https://demoqa.com/automation-practice-form")
-    @DisplayName("Заполнение формы регистрации")
+    @DisplayName("Заполнение формы регистрации")*/
     void testForm() {
 
         String firstName = RandomData.randomFirstName();
