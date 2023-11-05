@@ -35,7 +35,7 @@ public class TestBaseExtended {
         //capabilities.setCapability("browserVersion", "100.0");
         capabilities.setCapability("selenoid:options", Map.<String, Object>of(
                 "enableVNC", true,
-                "enableVideo", false
+                "enableVideo", true
         ));
 
         Configuration.browserCapabilities = capabilities;
@@ -52,7 +52,7 @@ public class TestBaseExtended {
         Attach.screenshotAs("Last screenshot");
         Attach.pageSource();
         Attach.browserConsoleLogs();
-        //Attach.addVideo(); //"enableVideo", true
+        Attach.addVideo(); //"enableVideo", true
     }
 
 }
