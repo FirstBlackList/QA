@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Nov 05 08:15:50 GMT 2023","Sun Nov 05 08:16:02 GMT 2023","11899","","pageObject.TestFormPage","","pageObject.TestFormPage","testForm","Заполнение формы регистрации",""
