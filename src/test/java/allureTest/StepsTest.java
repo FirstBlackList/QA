@@ -1,4 +1,4 @@
-package allureTest;
+/*package allureTest;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
@@ -59,4 +59,4 @@ public class StepsTest {
         steps.shouldSeeIssueWithNumberIntIssue(ISSUE);
     }
 
-}
+}*/

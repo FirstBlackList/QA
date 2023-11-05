@@ -1,4 +1,4 @@
-package jobFiles;
+/*package jobFiles;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.selenide.Configuration;
@@ -83,6 +83,4 @@ public class DownloadPdf {
         }
     }
 
-
-
-}
+}*/

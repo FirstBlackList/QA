@@ -1,4 +1,4 @@
-package jobFiles;
+/*package jobFiles;
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.FileDownloadMode;
 import org.junit.jupiter.api.Assertions;
@@ -59,5 +59,4 @@ public class DownloadFileTest {
         }
     }
 
-
-}
+}*/

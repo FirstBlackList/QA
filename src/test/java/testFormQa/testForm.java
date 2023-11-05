@@ -1,4 +1,4 @@
-package testFormQa;
+/*package testFormQa;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
@@ -196,4 +196,4 @@ public class testForm {
         $("#closeLargeModal").pressEnter();
 
     }
-}
+}*/

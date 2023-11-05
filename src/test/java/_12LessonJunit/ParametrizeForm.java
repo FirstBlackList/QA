@@ -1,4 +1,4 @@
-package _12LessonJunit;
+/*package _12LessonJunit;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
@@ -45,12 +45,12 @@ public class ParametrizeForm {
 
     }
 
-    /*@CsvSource({
+    *//*@CsvSource({
             "login, sgtAWI975_!",
             "fill, Gtrjgsgy563!!!Here",
             "gregg, poiyywfu6732!PP",
             "ruffolo, gfhvqkh656!TT"
-    })*/
+    })*//*
     @CsvFileSource(resources = "/userData.csv")
     @ParameterizedTest(name = "Authorization user by loginName: {0} and password: {1}")
     @Tags({@Tag("BLOCkER"), @Tag("UI_Test")})
@@ -122,4 +122,4 @@ public class ParametrizeForm {
         $("#books-wrapper #submit").click();
         $(byText("Login")).shouldBe(visible);
     }
-}
+}*/

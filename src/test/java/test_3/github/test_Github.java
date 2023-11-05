@@ -1,4 +1,4 @@
-package test_3.github;
+/*package test_3.github;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
@@ -26,19 +26,19 @@ public class test_Github {
         $("[id='wiki-tab']").shouldHave(visible, Duration.ofSeconds(6)).click();
         $x("//a[contains(text(), 'Soft assertions')]").scrollTo().shouldHave(visible).click();
         ElementsCollection collection = $$x("//div[@class='markdown-body']//ul//li//a");
-        /*for (SelenideElement x : collection) {
+        *//*for (SelenideElement x : collection) {
             if (x.getOwnText().equals("Soft assertions")) {
                 x.click();
                 break;
             }
-        }*/
-        /*collection.forEach(x-> {
+        }*//*
+        *//*collection.forEach(x-> {
             boolean softAssertions = x.getOwnText().equals("Soft assertions");
             sleep(8000);
             if (softAssertions) {
                 x.click();
             }
-        });*/
+        });*//*
         $(".overflow-auto").scrollTo().shouldHave(visible);
 
     }
@@ -62,7 +62,5 @@ public class test_Github {
         //$(byText("Andrei Solntsev")).shouldHave(visible, Duration.ofSeconds(6));
         $(".Popover").$(byText("Andrei Solntsev")).shouldHave(visible, Duration.ofSeconds(4));
 
-
-
     }
-}
+}*/

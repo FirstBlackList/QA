@@ -52,5 +52,11 @@ tasks.withType(JavaCompile) {
 }
 test {
     useJUnitPlatform()
-    systemProperties(System.getProperties())
+    systemProperties(System.getProperties())//allure
+}
+
+task simple_test(type: Test) { //create @Tag "simple" -> folder /jenkins
+    useJUnitPlatform{
+        includeTags("simple")
+    }
 }

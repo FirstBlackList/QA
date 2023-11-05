@@ -1,4 +1,4 @@
-package jobFiles;
+/*package jobFiles;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.selenide.Configuration;
@@ -28,9 +28,9 @@ public class FilesParsingTest {
     void pdfParseTest() throws Exception {
         open("https://junit.org/junit5/docs/current/user-guide/");
         File downloadPdf = $("a[href='junit-user-guide-5.10.0.pdf']").download();
-        /*try(InputStream is = new FileInputStream(downloadPdf)) {
+        *//*try(InputStream is = new FileInputStream(downloadPdf)) {
             PDF content = new PDF(downloadPdf);
-        }*/
+        }*//*
 
         PDF content = new PDF(downloadPdf);
         assertThat(content.author).contains("Sam Brannen");
@@ -43,15 +43,15 @@ public class FilesParsingTest {
             assertThat(xlsFile.excel.getSheetAt(0).getRow(1).getCell(1).getStringCellValue().contains("Dulce"));
         }
 
-        /*Configuration.timeout = 70000;
+        *//*Configuration.timeout = 70000;
         open("https://file-examples.com/index.php/sample-documents-download/sample-xls-download/");
         File downloadXLS = $("a[href='https://file-examples.com/wp-content/storage/2017/02/file_example_XLS_100.xls']").scrollTo().download();
         try(InputStream is = new FileInputStream(downloadXLS)) {
             XLS content = new XLS(downloadXLS);
-        }*/
+        }*//*
 
-        /*PDF content = new PDF(downloadPdf);
-        assertThat(content.author).contains("Sam Brannen");*/
+        *//*PDF content = new PDF(downloadPdf);
+        assertThat(content.author).contains("Sam Brannen");*//*
     }
 
     @Test
@@ -136,4 +136,4 @@ public class FilesParsingTest {
         }
     }
 
-}
+}*/

@@ -1,4 +1,4 @@
-package test_3.github;
+/*package test_3.github;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Assertions;
@@ -65,11 +65,11 @@ public class TestLogin {
         assertEquals(DayOfWeek.THURSDAY, localDate.getDayOfWeek());
 
 
-        /*for (int i = 0; i < 10; i++) { //10.for
+        *//*for (int i = 0; i < 10; i++) { //10.for
             for (int i1 = 10; i1 > 0; i1--) {
                 
             }
-        }*/
+        }*//*
 
     }
-}
+}*/

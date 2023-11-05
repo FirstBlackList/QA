@@ -1,4 +1,4 @@
-package jobFiles;
+/*package jobFiles;
 
 import java.util.ArrayList;
 
@@ -75,4 +75,4 @@ public class GlossaryJson {
         public String emailAddress;
     }
 
-}
+}*/

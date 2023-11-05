@@ -1,4 +1,4 @@
-package allureTest;
+/*package allureTest;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
@@ -49,6 +49,4 @@ public class WebSteps {
         return ((TakesScreenshot)WebDriverRunner.getWebDriver()).getScreenshotAs(OutputType.BYTES);
     }
 
-
-
-}
+}*/

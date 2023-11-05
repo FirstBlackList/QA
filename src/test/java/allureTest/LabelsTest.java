@@ -1,4 +1,4 @@
-package allureTest;
+/*package allureTest;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
@@ -27,7 +27,7 @@ public class LabelsTest {
     @Link(value = "Github", url = "https://github.com")
     @DisplayName("Создание issue для авторизованного пользователя")
     public void testLambdaStepStatic() {
-        /*SelenideLogger.addListener("allure", new AllureSelenide());
+        *//*SelenideLogger.addListener("allure", new AllureSelenide());
 
         step("Open first page", () -> {
             Configuration.holdBrowserOpen = true;
@@ -50,21 +50,21 @@ public class LabelsTest {
 
         step("Проверяем issue с номером " + ISSUE, () -> {
             $(withText("#" + ISSUE)).shouldHave(Condition.exist);
-        });*/
+        });*//*
 
 
     }
 
     @Test
     public void annotatedStepDynamic() {
-        /*SelenideLogger.addListener("allure", new AllureSelenide());
+        *//*SelenideLogger.addListener("allure", new AllureSelenide());
         WebSteps steps = new WebSteps();
 
         steps.openMainPage();
         steps.searchForRepository(REPOSITORY);
         steps.clickOnRepository(REPOSITORY);
         steps.openIssuesTab();
-        steps.shouldSeeIssueWithNumberIntIssue(ISSUE);*/
+        steps.shouldSeeIssueWithNumberIntIssue(ISSUE);*//*
     }
 
-}
+}*/

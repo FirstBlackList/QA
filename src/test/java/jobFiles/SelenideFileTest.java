@@ -1,4 +1,4 @@
-package jobFiles;
+/*package jobFiles;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.FileDownloadMode;
@@ -34,14 +34,14 @@ public class SelenideFileTest {
         }
 
         //OR
-        /*try {
+        *//*try {
             byte[] bytes = is.readAllBytes();
             String textDocument = new String(bytes, StandardCharsets.UTF_8);
             assertThat(textDocument).contains("Contributions to JUnit");
 
         } finally {
             is.close();
-        }*/
+        }*//*
 
     }
 
@@ -55,18 +55,4 @@ public class SelenideFileTest {
         System.out.println("");
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
+}*/

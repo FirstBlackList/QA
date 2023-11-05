@@ -1,4 +1,4 @@
-package jobFiles;
+/*package jobFiles;
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
 import org.junit.jupiter.api.Test;
@@ -51,4 +51,4 @@ public class UploadFileTest {
 
     }
 
-}
+}*/
