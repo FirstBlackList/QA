@@ -18,6 +18,11 @@ public class TestBase {
         //Configuration.pageLoadTimeout = 70000;
         //Configuration.baseUrl = "https://demoqa.com";
 
+
+        //Configuration.baseUrl = System.getProperty("Base_URL", "https://demoqa.com");
+
+
+
         Configuration.baseUrl = "https://demoqa.com";
         Configuration.browser = "chrome";
         Configuration.browserVersion = "100.0";
