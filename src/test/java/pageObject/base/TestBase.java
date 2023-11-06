@@ -33,7 +33,9 @@ public class TestBase {
 
         //Configuration.pageLoadStrategy = "eager";
         //Configuration.holdBrowserOpen = true;
-        Configuration.browserSize = "1920x1080";
+
+        //Configuration.browserSize = "1920x1080";
+        Configuration.browserSize = System.getProperty("sizeWindow", "${size}");
 
         //Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
         Configuration.remote = System.getProperty("selenoid", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
