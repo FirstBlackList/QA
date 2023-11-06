@@ -10,10 +10,10 @@ compileJava.options.encoding = "UTF-8"
 compileTestJava.options.encoding = "UTF-8"
 
 allure {
-    report{
+    report {
         version.set("2.19.0")
     }
-    adapter{ //folder
+    adapter { //folder
         aspectjWeaver.set(true) //annotation @Step
         frameworks {
             junit5 { //testNG junit4
@@ -44,25 +44,53 @@ dependencies {
             //Lombok
             'org.projectlombok:lombok:1.18.26',
             //Allure integration
-            'io.qameta.allure:allure-selenide:2.20.1'
+            'io.qameta.allure:allure-selenide:2.20.1',
+            // logs
+            'org.slf4j:slf4j-simple:1.7.32'
     )
 }
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
 }
-test {
+
+tasks.withType(Test) {
+    systemProperties(System.getProperties())// -D прокидывать дальше в код
     useJUnitPlatform()
-    systemProperties(System.getProperties())
+
+    testLogging {
+        lifecycle {
+            events "started", "skipped", "failed", "standard_error", "standard_out"
+            exceptionFormat "short"
+        }
+    }
 }
 
+
+/*test {
+    useJUnitPlatform()
+    systemProperties(System.getProperties())
+}*/
+
 task simple_test(type: Test) { //create @Tag "simple" -> folder /jenkins
-    useJUnitPlatform{
+    useJUnitPlatform {
         includeTags("simple")
     }
 }
 
 task less_test(type: Test) { //create @Tag "less" -> folder /jenkins
-    useJUnitPlatform{
+    useJUnitPlatform {
         includeTags("less")
+    }
+}
+
+task lego_test(type: Test) { //create @Tag "less" -> folder /jenkins
+    useJUnitPlatform {
+        includeTags("lego")
+    }
+}
+
+task hello_test(type: Test) { //create @Tag "less" -> folder /jenkins
+    useJUnitPlatform {
+        includeTags("hello")
     }
 }
