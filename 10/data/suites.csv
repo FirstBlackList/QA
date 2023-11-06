@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Nov 05 08:56:12 GMT 2023","Sun Nov 05 08:56:12 GMT 2023","4","","jenkins.PositiveTest","","jenkins.PositiveTest","test1","test1()",""
-"failed","Sun Nov 05 08:56:12 GMT 2023","Sun Nov 05 08:56:27 GMT 2023","15706","","pageObject.TestFormPage","","pageObject.TestFormPage","testForm","Заполнение формы регистрации",""
-"skipped","Sun Nov 05 08:56:12 GMT 2023","Sun Nov 05 08:56:12 GMT 2023","0","","jenkins.SkippedTest","","jenkins.SkippedTest","test1","test1()",""
-"failed","Sun Nov 05 08:56:11 GMT 2023","Sun Nov 05 08:56:11 GMT 2023","58","","jenkins.NegativeTest","","jenkins.NegativeTest","test1","test1()",""
