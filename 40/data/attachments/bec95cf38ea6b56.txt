@@ -1,0 +1,25 @@
+[2023-11-06T15:23:31.791Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js?cb=31079420 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:23:31.794Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js?cb=31079420 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:23:31.806Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js?cb=31079420 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:23:31.808Z] [SEVERE] https://cdn-ima.33across.com/ob.js 0:10976 "33Across Lexicon ID Mappings Provider: PID not found"
+[2023-11-06T15:23:31.841Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js?cb=31079420 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:23:31.982Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js?cb=31079420 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:23:33.743Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:23:40.063Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:23:42.007Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:23:43.908Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:23:45.775Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:23:51.553Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:23:57.312Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:03.091Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:08.829Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:14.556Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:20.330Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:26.072Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:32.315Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:34.055Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:35.696Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:37.502Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:24:39.311Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:25:19.702Z] [SEVERE] https://fineuploader.com/demos.html - Blocked attempt to show a 'beforeunload' confirmation panel for a frame that never had a user gesture since its load. https://www.chromestatus.com/feature/5082396709879808
+[2023-11-06T15:26:52.813Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
