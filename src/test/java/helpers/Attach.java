@@ -39,19 +39,20 @@ public class Attach {
     }
 
     @Attachment(value = "Video", type = "text/html", fileExtension = ".html")
-    public static String addVideo() {
+    public static String addVideo(String url) {
         return "<html><body><video width='100%' height='100%' controls autoplay><source src='"
-                + getVideoUrl()
+                + getVideoUrl(url)
                 + "' type='video/mp4'></video></body></html>";
     }
 
-    public static URL getVideoUrl() {
+    public static URL getVideoUrl(String url) {
         //System.getProperty("getVideo", "https://selenoid.autotests.cloud/video/");
 
-        String videoUrl = System.getProperty("getVideo", "https://selenoid.autotests.cloud/video/")
-                + sessionId() + ".mp4";
+        //String videoUrl = System.getProperty("getVideo", "https://selenoid.autotests.cloud/video/")
+        //        + sessionId() + ".mp4";
 
 
+        String videoUrl = url + sessionId() + ".mp4";
         //String videoUrl = "https://selenoid.autotests.cloud/video/" + sessionId() + ".mp4";
         //String videoUrl = "https://user1:1234@selenoid.autotests.cloud/video/" + sessionId() + ".mp4";
 
