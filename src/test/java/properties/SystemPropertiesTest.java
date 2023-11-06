@@ -55,7 +55,7 @@ public class SystemPropertiesTest {
     @Test
     @Tag("hello")
     void simplePrTest() {
-        System.out.println("Hello, " + System.getProperty("user_name", "unknown student"));
+        System.out.println("Hello, " + System.getProperty("user_name", ""));
 
 
     }
