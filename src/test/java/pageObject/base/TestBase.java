@@ -13,8 +13,9 @@ import java.util.Map;
 
 public class TestBase {
 
-    @BeforeAll
+    /*@BeforeAll
     static void setUp() {
+
         //Configuration.pageLoadTimeout = 70000;
         //Configuration.baseUrl = "https://demoqa.com";
 
@@ -67,8 +68,9 @@ public class TestBase {
         Attach.pageSource();
         Attach.browserConsoleLogs();
         Attach.addVideo(videoUrl); //"enableVideo", true
-    }
+    }*/
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     /*@BeforeAll
     static void setUp() {
@@ -79,7 +81,9 @@ public class TestBase {
         Configuration.browserSize = "1920x1080";
     }*/
 
-    /*@BeforeAll
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    @BeforeAll
     static void setUp() {
         //Configuration.pageLoadTimeout = 70000;
         //Configuration.baseUrl = "https://demoqa.com";
@@ -109,6 +113,6 @@ public class TestBase {
     @BeforeEach
     void addListener() {
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
-    }*/
+    }
 
 }
