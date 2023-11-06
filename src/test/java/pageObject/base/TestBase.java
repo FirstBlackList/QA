@@ -56,10 +56,11 @@ public class TestBase {
 
     @AfterEach
     void addAttachments() {
+        String videoUrl = System.getProperty("addVideo", "https://selenoid.autotests.cloud/video/");
         Attach.screenshotAs("Last screenshot");
         Attach.pageSource();
         Attach.browserConsoleLogs();
-        Attach.addVideo(); //"enableVideo", true
+        Attach.addVideo(videoUrl); //"enableVideo", true
     }
 
 
