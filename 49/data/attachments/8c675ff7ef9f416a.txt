@@ -1,0 +1,23 @@
+[2023-11-06T21:08:54.458Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T21:08:54.518Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T21:08:54.539Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T21:08:54.561Z] [SEVERE] https://cdn-ima.33across.com/ob.js 0:10976 "33Across Lexicon ID Mappings Provider: PID not found"
+[2023-11-06T21:08:54.561Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T21:08:54.585Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T21:08:56.144Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:02.395Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:03.986Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:05.573Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:07.311Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:13.064Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:18.720Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:24.410Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:30.057Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:35.740Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:41.408Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:47.039Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:52.681Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:54.267Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:55.489Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:56.990Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T21:09:58.546Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
