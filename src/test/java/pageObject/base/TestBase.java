@@ -24,8 +24,8 @@ public class TestBase {
 
 
         Configuration.baseUrl = "https://demoqa.com";
-        /*Configuration.browser = "chrome";
-        Configuration.browserVersion = "100.0";*/
+        Configuration.browser = "chrome";
+        Configuration.browserVersion = "100.0";
 
         //Configuration.pageLoadStrategy = "eager";
         //Configuration.holdBrowserOpen = true;
@@ -38,8 +38,8 @@ public class TestBase {
 
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability("browserName", "chrome");
-        capabilities.setCapability("browserVersion", "100.0");
+        //capabilities.setCapability("browserName", "chrome");
+        //capabilities.setCapability("browserVersion", "100.0");
         capabilities.setCapability("selenoid:options", Map.<String, Object>of(
                 "enableVNC", true,
                 "enableVideo", true
