@@ -26,7 +26,7 @@ public class TestBase {
         Configuration.baseUrl = "https://demoqa.com";
 
         //Configuration.browser = "chrome";
-        Configuration.browser = System.getProperty("browser", "chrome");
+        Configuration.browser = System.getProperty("browser", "${browser}");
 
         Configuration.browserVersion = "100.0";
 
