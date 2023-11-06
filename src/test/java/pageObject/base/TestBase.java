@@ -28,7 +28,8 @@ public class TestBase {
         //Configuration.browser = "chrome";
         Configuration.browser = System.getProperty("browser", "${browser}");
 
-        Configuration.browserVersion = "100.0";
+        //Configuration.browserVersion = "100.0";
+        Configuration.browserVersion = System.getProperty("version", "${versionBrowser}");
 
         //Configuration.pageLoadStrategy = "eager";
         //Configuration.holdBrowserOpen = true;
