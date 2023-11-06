@@ -19,11 +19,9 @@ public class TestBase {
         //Configuration.baseUrl = "https://demoqa.com";
 
 
-        //Configuration.baseUrl = System.getProperty("Base_URL", "https://demoqa.com");
+        Configuration.baseUrl = System.getProperty("baseURL", "${URL}");
 
-
-
-        Configuration.baseUrl = "https://demoqa.com";
+        //Configuration.baseUrl = "https://demoqa.com";
 
         //Configuration.browser = "chrome";
         Configuration.browser = System.getProperty("browser", "${browser}");
