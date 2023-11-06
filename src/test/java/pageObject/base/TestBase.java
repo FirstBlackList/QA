@@ -26,9 +26,9 @@ public class TestBase {
         Configuration.baseUrl = "https://demoqa.com";
 
         //Configuration.browser = "chrome";
-        Configuration.browser = System.getProperty("operaBrowser", "opera");
+        Configuration.browser = System.getProperty("browser", "chrome");
 
-        Configuration.browserVersion = "85.0";
+        Configuration.browserVersion = "100.0";
 
         //Configuration.pageLoadStrategy = "eager";
         //Configuration.holdBrowserOpen = true;
