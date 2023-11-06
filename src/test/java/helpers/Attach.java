@@ -2,6 +2,7 @@ package helpers;
 
 import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Attachment;
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
@@ -45,7 +46,13 @@ public class Attach {
     }
 
     public static URL getVideoUrl() {
-        String videoUrl = "https://selenoid.autotests.cloud/video/" + sessionId() + ".mp4";
+        //System.getProperty("getVideo", "https://selenoid.autotests.cloud/video/");
+
+        String videoUrl = System.getProperty("getVideo", "https://selenoid.autotests.cloud/video/")
+                + sessionId() + ".mp4";
+
+
+        //String videoUrl = "https://selenoid.autotests.cloud/video/" + sessionId() + ".mp4";
         //String videoUrl = "https://user1:1234@selenoid.autotests.cloud/video/" + sessionId() + ".mp4";
 
         try {
