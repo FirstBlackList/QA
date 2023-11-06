@@ -25,6 +25,11 @@ public class RandomData {
         return phone;
     }
 
+    public static String invalidPhone() {
+        String phone = "7" + new Faker(new Locale("en")).phoneNumber().subscriberNumber(4);
+        return phone;
+    }
+
     public static String randomAddress() {
         return new Faker(new Locale("en")).address().fullAddress();
     }
