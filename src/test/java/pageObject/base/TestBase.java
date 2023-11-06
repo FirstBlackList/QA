@@ -57,7 +57,7 @@ public class TestBase {
         Attach.screenshotAs("Last screenshot");
         Attach.pageSource();
         Attach.browserConsoleLogs();
-        Attach.addVideo(System.getProperty("getVideo", "https://selenoid.autotests.cloud/video/")); //"enableVideo", true
+        Attach.addVideo(); //"enableVideo", true
     }
 
 
