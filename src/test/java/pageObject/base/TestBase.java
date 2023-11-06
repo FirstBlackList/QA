@@ -38,7 +38,8 @@ public class TestBase {
         Configuration.browserSize = System.getProperty("sizeWindow", "${size}");
 
         //Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
-        Configuration.remote = System.getProperty("selenoid", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
+        Configuration.remote = System.getProperty("selenoid", "${linkTheBrowserInSelenoid}");
+        //Configuration.remote = System.getProperty("selenoid", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
 
         //System.getProperty("selenoid", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
 
@@ -62,7 +63,8 @@ public class TestBase {
 
     @AfterEach
     void addAttachments() {
-        String videoUrl = System.getProperty("addVideo", "https://selenoid.autotests.cloud/video/");
+        //String videoUrl = System.getProperty("addVideo", "https://selenoid.autotests.cloud/video/");
+        String videoUrl = System.getProperty("addVideo", "${linkOfTheVideoFile}");
         Attach.screenshotAs("Last screenshot");
         Attach.pageSource();
         Attach.browserConsoleLogs();
