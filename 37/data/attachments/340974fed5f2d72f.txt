@@ -1,0 +1,151 @@
+[2023-11-06T15:16:21.874Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:16:21.878Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:16:21.948Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:16:21.977Z] [SEVERE] https://cdn-ima.33across.com/ob.js 0:10976 "33Across Lexicon ID Mappings Provider: PID not found"
+[2023-11-06T15:16:21.977Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:16:22.127Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202310310101/pubads_impl.js 9:291890 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-06T15:16:23.614Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:16:31.870Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:16:34.643Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:16:41.430Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:16:44.410Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:16:50.643Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:16:57.080Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:03.304Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:09.676Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:15.962Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:22.388Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:28.561Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:34.878Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:36.918Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:38.914Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:41.151Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:17:42.987Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-06T15:18:02.068Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Failed to load resource: the server responded with a status of 429 ()
+[2023-11-06T15:18:02.103Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the script 'https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-99519581d0f8.js' because it violates the following Content Security Policy directive: "script-src 'self'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[2023-11-06T15:18:02.105Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the script 'https://github.githubassets.com/assets/sessions-76e28d5c9536.js' because it violates the following Content Security Policy directive: "script-src 'self'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[2023-11-06T15:18:02.264Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/hero-bg-e49a8e86f714.webp' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.265Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/hero-bg-e49a8e86f714.webp' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.265Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/hero-drone-6f6778300d9b.webp' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.266Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/lines-hero-6c09abf3dd42.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.266Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/eyebrow-23@2x-563f292d9e30.png?width=44&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.267Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/stripe-e33f3c583b14.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.268Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/pinterest-20e7451b691f.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.268Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/kpmg-c249f20c5173.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.273Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/mercedes-fcf97d2d6ec4.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.273Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/pg-f1f19955c4e4.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.274Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/telus-df0c2109df99.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.275Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/globe-d6f3f4ee645a.jpg?width=619' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.276Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/bg-stars-1-af032966b34f.webp' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.276Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/git-branch-productivity-c304b83d09c7.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.277Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illo-context-menu-51a3417d6621.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.278Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illo-cursor-ad4eda534eba.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.278Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illo-ports-cb650eaf237c.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.280Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-actions-db55ffb47888.png?width=604&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.280Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-mobile-4d51d19f769e.png?width=604&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.281Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/issues-plan-3282274c574b.png?width=1250&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.282Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/bg-stars-1-af032966b34f.webp' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.282Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/git-branch-collaboration-fa5c124c7144.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.283Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-projects-a97f6088923d.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.284Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-discussions-6aab2000e0ec.png?width=604&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.284Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-pull-requests-743b2b360e1f.png?width=604&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.285Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/imolorhe-9d771b1d4332.jpeg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.286Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/homebrew-c7e38eeacb52.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.287Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/dayhaysoos-c50659cac73b.jpeg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.287Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/directus-4da9e46da0ac.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.288Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/prophen-da9b089d8a25.jpeg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.289Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/curl-24ff778d1afc.jpeg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.289Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/yyx990803-e11c7b140b17.jpeg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.290Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/commandpost-18d45fffda67.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.291Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/kazupon-d7aeb7b8df20.jpeg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.292Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/bg-stars-1-af032966b34f.webp' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.292Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/git-branch-security-a1be26173d7b.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.293Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-ghas-list-84af1f1ce2b8.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.293Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-secret-scanning-8b1a09f4d09c.png?width=644&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.294Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-dependabot-d98c73cc6724.png?width=604&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.295Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/illu-code-scanning-fc9dfb212aa3.png?width=604&format=webpll' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.296Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/globe-700-7504469d0f87.jpg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.296Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/globe-700-7504469d0f87.jpg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.297Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/globe-700-7504469d0f87.jpg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.298Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/images/modules/site/home/globe/pull-request-icon.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.299Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/images/modules/site/home/globe/north-star.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.300Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/footer-galaxy-096a057faaf4.jpg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.301Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/footer-galaxy-096a057faaf4.jpg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.301Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/astrocat-c96b6ce0d913.png' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.303Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/x-023c3ca5e173.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.304Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/facebook-de85282d23e6.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.305Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/linkedin-3c0ace8edb5f.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.306Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/youtube-25bc21e924c8.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.306Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/twitch-e576606a89a7.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.307Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/tiktok-5d12d948d920.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.307Z] [SEVERE] https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js 14 Refused to load the image 'https://github.githubassets.com/assets/github-mark-9be88460eaa6.svg' because it violates the following Content Security Policy directive: "img-src 'self' data:".
+
+[2023-11-06T15:18:02.332Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Refused to load media from 'https://github.githubassets.com/assets/globe-900.hevc-58019d77b21c.mp4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'media-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+[2023-11-06T15:18:02.333Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Refused to load media from 'https://github.githubassets.com/assets/globe-900.h264-975e7b5ac572.mp4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'media-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+[2023-11-06T15:18:02.333Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Refused to load media from 'https://github.githubassets.com/assets/globe-500.hevc-42032a395ff1.mp4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'media-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+[2023-11-06T15:18:02.344Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Refused to load media from 'https://github.githubassets.com/assets/globe-500.h264-f00ceaddc706.mp4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'media-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+[2023-11-06T15:18:02.344Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Refused to load media from 'https://github.githubassets.com/assets/aurora.h264-25af1afc4e69.mp4' because it violates the following Content Security Policy directive: "default-src 'none'". Note that 'media-src' was not explicitly set, so 'default-src' is used as a fallback.
+
+[2023-11-06T15:18:07.430Z] [SEVERE] https://github.com/search?q=eroshenkoam%2Fallure-example&type=repositories - Failed to load resource: the server responded with a status of 429 ()
+[2023-11-06T15:18:16.055Z] [WARNING] https://www.dwsamplefiles.com/beardeddragon/wyvern.js?cb=77 11:1629 "VIDEOJS:" "WARN:" "videojs.mergeOptions is deprecated and will be removed in 9.0; please use videojs.obj.merge instead."
+[2023-11-06T15:20:15.188Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
