@@ -46,7 +46,9 @@ dependencies {
             //Allure integration
             'io.qameta.allure:allure-selenide:2.20.1',
             // logs
-            'org.slf4j:slf4j-simple:1.7.32'
+            'org.slf4j:slf4j-simple:1.7.32',
+            //owner
+            'org.aeonbits.owner:owner:1.0.12'
     )
 }
 tasks.withType(JavaCompile) {

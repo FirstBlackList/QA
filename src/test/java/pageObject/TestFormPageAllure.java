@@ -105,7 +105,7 @@ public class TestFormPageAllure extends TestBase {
                     .verifyResults("Address", address);
         });
 
-        step("Завкрытие модального окна", () -> {
+        step("Закрытие модального окна", () -> {
             new RegistrationPage()
                     .closeModalWindow();
         });
