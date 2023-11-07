@@ -1,0 +1,25 @@
+[2023-11-07T17:06:18.856Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T17:06:18.867Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T17:06:18.882Z] [SEVERE] https://cdn-ima.33across.com/ob.js 0:10976 "33Across Lexicon ID Mappings Provider: PID not found"
+[2023-11-07T17:06:18.951Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T17:06:18.964Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T17:06:19.019Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T17:06:20.188Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:22.053Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:23.843Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:25.502Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:27.364Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:33.093Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:38.831Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:44.563Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:50.280Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:06:56.005Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:01.721Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:07.411Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:13.132Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:14.976Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:16.543Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:18.760Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:20.476Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T17:07:41.069Z] [WARNING] https://www.dwsamplefiles.com/beardeddragon/wyvern.js?cb=77 11:1629 "VIDEOJS:" "WARN:" "videojs.mergeOptions is deprecated and will be removed in 9.0; please use videojs.obj.merge instead."
+[2023-11-07T17:08:01.438Z] [SEVERE] https://fineuploader.com/demos.html - Blocked attempt to show a 'beforeunload' confirmation panel for a frame that never had a user gesture since its load. https://www.chromestatus.com/feature/5082396709879808
