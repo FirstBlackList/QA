@@ -1,0 +1,24 @@
+[2023-11-07T14:33:51.092Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T14:33:51.097Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T14:33:51.125Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T14:33:51.221Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T14:33:51.223Z] [SEVERE] https://cdn-ima.33across.com/ob.js 0:10976 "33Across Lexicon ID Mappings Provider: PID not found"
+[2023-11-07T14:33:51.361Z] [WARNING] https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202311020101/pubads_impl.js 9:293021 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+[2023-11-07T14:33:51.783Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:01.835Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:07.754Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:10.353Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:13.351Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:19.757Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:26.150Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:32.517Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:38.906Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:45.427Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:52.225Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:34:58.369Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:35:04.783Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:35:07.124Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:35:09.144Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:35:11.357Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:35:13.396Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+[2023-11-07T14:35:49.702Z] [WARNING] https://www.dwsamplefiles.com/beardeddragon/wyvern.js?cb=77 11:1629 "VIDEOJS:" "WARN:" "videojs.mergeOptions is deprecated and will be removed in 9.0; please use videojs.obj.merge instead."
