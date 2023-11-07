@@ -116,7 +116,7 @@ public class TestFormPageAllure extends TestBase {
     @Test
     @Tag("less")
     @Feature("Форма регистрации")
-    @Story("Заполнение формы с невалидным номером телефога")
+    @Story("Заполнение формы с невалидным номером телефона")
     @Owner("Sergey")
     @Severity(SeverityLevel.BLOCKER)
     @Link(value = "QA", url = "https://demoqa.com")
@@ -204,7 +204,7 @@ public class TestFormPageAllure extends TestBase {
                     .verifyResults("Address", address);
         });
 
-        step("Завкрытие модального окна", () -> {
+        step("Закрытие модального окна", () -> {
             new RegistrationPage()
                     .closeModalWindow();
         });
