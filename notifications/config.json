@@ -2,16 +2,16 @@
   "base": {
     "logo": "",
     "project": "${JOB_BASE_NAME}",
-    "environment": "myProject",
-    "comment": "This first allure",
+    "environment": "Project",
+    "comment": "allure",
     "reportLink": "${BUILD_URL}",
     "language": "ru",
     "allureFolder": "allure-report/",
     "enableChart": true
   },
   "telegram": {
-    "token": "6833757649:AAHjpYIKJQetpMpu2SC4xzqAf3kJWyxkn0A",
-    "chat": "-1002104756008",
+    "token": "",
+    "chat": "",
     "replyTo": ""
   }
 }
